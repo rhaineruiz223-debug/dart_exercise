@@ -1,0 +1,8 @@
+Student: Rhaine Jhamier Ruiz (enrolled: true)
+Quiz score: 18 out of 20
+Mistakes: 2
+Percent: 90.0%
+Groups of 3: 6, leftover: 2
+Is passing (>= 75)? true
+Is perfect score? false
+Class average: 87.5
